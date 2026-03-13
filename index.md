@@ -6,7 +6,7 @@ author_profile: true
 
 ## About Me
 
-I'm Di Zhang, a M.S. student at [Peking University](https://www.pku.edu.cn/), supervised by Prof. [Zhifang Sui](https://scholar.google.com/citations?user=y2EaftAAAAAJ&hl=en&oi=ao). Previously, I obtained my bachelor's degree from [Northeastern University](https://www.neu.edu.cn/).
+I'm Di Zhang, a M.S. student at [Peking University](https://www.pku.edu.cn/), supervised by Prof. [Zhifang Sui](https://scholar.google.com/citations?user=y2EaftAAAAAJ&hl=en&oi=ao). Previously, I obtained my bachelor's degree from [Northeastern University](https://www.neu.edu.cn/). \[[CV](CV.pdf)\]
 
 My research interests primarily revolve around post-training techniques for large language models, focusing on the following key aspects:
 
